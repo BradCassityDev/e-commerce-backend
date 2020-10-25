@@ -20,7 +20,7 @@ Clone the repo to your local enviroment. You must have Node and MYSQL installed 
 
 Users will use this system to perform CRUD operations against the data stored in the database to manage their online e-commerce store.
 
-Walkthrough Video: [Demonstration]()
+Walkthrough Video: [Demonstration](https://drive.google.com/file/d/1mtT1yoLSRVHgjcZj4A9tABF4gBXTHlWw/view)
 
 ## Questions
 
